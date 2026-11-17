@@ -1,0 +1,41 @@
+# Tax Brackets
+
+## What are they?
+
+- The US uses a **progressive tax system** — you don't pay one flat rate on all your income
+- Your income is split into chunks (brackets), and each chunk is taxed at a different rate
+- Only the money **within** each bracket is taxed at that bracket's rate
+
+## Common misconception
+
+- "If I earn more I'll move into a higher bracket and take home less" — **WRONG**
+- Only the dollars above the bracket threshold are taxed higher, not all your income
+
+## 2025 Federal Tax Brackets (Single Filer)
+
+| Taxable Income | Rate |
+|----------------|------|
+| $0 – $11,925 | 10% |
+| $11,926 – $48,475 | 12% |
+| $48,476 – $103,350 | 22% |
+| $103,351 – $197,300 | 24% |
+| $197,301 – $250,525 | 32% |
+| $250,526 – $626,350 | 35% |
+| $626,351+ | 37% |
+
+## Example
+
+If your taxable income is $100,000:
+- First $11,925 taxed at 10% = $1,192.50
+- Next $36,550 taxed at 12% = $4,386.00
+- Next $51,525 taxed at 22% = $11,335.50
+- **Total federal tax: ~$16,914**
+- **Effective tax rate: ~16.9%** (not 22%)
+
+## Key terms
+
+- **Gross income** — everything you earned before anything is taken out
+- **Taxable income** — gross income minus deductions (this is what brackets apply to)
+- **Marginal rate** — the rate on your last/highest dollar (your bracket)
+- **Effective rate** — your actual total tax ÷ total income (always lower than marginal)
+- **Standard deduction** — amount the government lets you subtract before calculating tax ($15,000 for 2025 single filers)
