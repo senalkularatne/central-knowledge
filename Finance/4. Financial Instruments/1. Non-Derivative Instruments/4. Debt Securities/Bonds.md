@@ -11,7 +11,7 @@
 
 A bond's coupon is its interest payment. The bond's face value is the amount used to specify payments and repayment; it need not equal the price an investor pays for the bond.
 
-The issuer can fail to make required payments. A bond's resale price can also fall, so a repayment promise does not eliminate investment risk.
+The issuer can fail to make required payments. A bond's resale price can also fall, so a repayment promise does not eliminate [investment risk](../../../3.%20Risk%20and%20Return.md#investment-risk).
 
 ## Why the Term "Bond"?
 

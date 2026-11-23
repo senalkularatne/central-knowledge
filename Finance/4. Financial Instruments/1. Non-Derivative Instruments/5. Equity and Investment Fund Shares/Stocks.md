@@ -2,7 +2,7 @@
 
 A stock represents ownership in a company; a share is a unit of that ownership. "Company shares" and "stocks" refer to the same subject here.
 
-Ownership can produce a return through changes in share price and through dividends, which are distributions a company makes to shareholders. Neither a rising price nor a dividend is guaranteed.
+Ownership can produce a [return](../../../3.%20Risk%20and%20Return.md#return) through changes in share price and through dividends, which are distributions a company makes to shareholders. Neither a rising price nor a dividend is guaranteed.
 
 ## Share Rights
 
@@ -17,7 +17,7 @@ These are introductory descriptions. The actual rights and classification depend
 
 Publicly traded shares can be bought and sold in public markets.
 
-Private equity is ownership in companies whose shares are not publicly traded. Investors may own it directly or through a private equity fund that pools their money to acquire stakes in businesses, sometimes buying a public company and taking it private. Selling such an investment can be much harder than selling a publicly traded stock.
+Private equity is ownership in companies whose shares are not publicly traded. Investors may own it directly or through a fund. Selling such an investment can be much harder than selling a publicly traded stock.
 
 Public/private ownership and common/preferred rights answer different questions. They are not four mutually exclusive stock types.
 
@@ -39,7 +39,7 @@ Public/private ownership and common/preferred rights answer different questions.
 - [Investor.gov: Stocks](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)
 - [FINRA: Stocks](https://www.finra.org/investors/investing/investment-products/stocks)
 - [Investor.gov: Real Estate Investment Trusts](https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits)
-- [Investor.gov: American Depositary Receipts](https://www.investor.gov/introduction-investing/investing-basics/investment-products/international-investing/american-depositary)
+- [Investor.gov: American Depositary Receipts](https://www.investor.gov/introduction-investing/investing-basics/glossary/american-depositary-receipts-adrs)
 
 ###### Resources
 
