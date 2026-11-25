@@ -7,27 +7,28 @@ For now, add only foundational knowledge: basic meanings and how things work. Le
 
 ✅ means a basic explanation exists at the linked location, even inside a broader note. It does not mean the topic is complete or has been learned.
 
-- ✅ [Brokers](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#brokers-and-commissions)
-- ✅ [bullish or bearish meaning](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#bullish-and-bearish). Never fully understood this either.
-- ✅ [Commission](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#brokers-and-commissions)
-- ✅ [Derivative](../../4.%20Financial%20Instruments/2.%20Derivatives/0.%20Derivatives.md)
-- ✅ [Equity](../../4.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/0.%20Equity%20and%20Investment%20Fund%20Shares.md#equity)
-- ✅ [ETF](../../6.%20Investment%20Funds/1.%20Fund%20Structures.md#exchange-traded-funds-etfs)
-- ✅ [Financial asset](../../2.%20Assets%20and%20Liabilities/1.%20Assets/1.%20Financial%20Assets.md)
-- ✅ [Fund](../../6.%20Investment%20Funds/0.%20Investment%20Funds.md)
-- ✅ [Futures](../../4.%20Financial%20Instruments/2.%20Derivatives/2.%20Futures.md)
-- ✅ [Hedge Fund](../../6.%20Investment%20Funds/1.%20Fund%20Structures.md#hedge-funds)
-- ✅ [Inflation](../../1.%20Money%20and%20Banking/0.%20Money%20and%20Banking.md#inflation)
-- ✅ [IPO](../../8.%20Corporate%20Finance/0.%20Corporate%20Finance.md#initial-public-offering-ipo)
-- ✅ [Liquid](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#liquidity)
-- ✅ [Options](../../4.%20Financial%20Instruments/2.%20Derivatives/1.%20Options.md)
-- ✅ [OTC](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#exchanges-and-otc-trading)
-- ✅ [private equity](../../4.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/Stocks.md#public-and-private-equity) https://www.reddit.com/r/BusinessHub/comments/1xygsb9/this_is_wild_guys_lol_ashton_k_just_became_a/
-- ✅ [Risk](../../3.%20Risk%20and%20Return.md)
-- ✅ [Stock](../../4.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/Stocks.md)
-- ✅ [Treasury](../../7.%20Public%20Finance/2.%20Government%20Borrowing.md#us-treasury-securities)
-- ✅ [Wall street oen and close meaning](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md#market-open-and-close). Never understood this fully.
-- ✅ [Market Mechanics](../../5.%20Financial%20Markets/1.%20Market%20Mechanics.md): how exchanges and order books work, market making, [derivatives](../../4.%20Financial%20Instruments/2.%20Derivatives/0.%20Derivatives.md), [options Greeks (introduction only)](../../4.%20Financial%20Instruments/2.%20Derivatives/1.%20Options.md#options-greeks-introduction-only), and [risk basics](../../3.%20Risk%20and%20Return.md).
+- ✅ [Brokers](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#brokers-and-commissions)
+- ✅ [bullish or bearish meaning](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#bullish-and-bearish). Never fully understood this either.
+- ✅ [Commission](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#brokers-and-commissions)
+- ✅ [Derivative](../../6.%20Financial%20Instruments/2.%20Derivatives/0.%20Derivatives.md)
+- ✅ [Equity](../../6.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/0.%20Equity%20and%20Investment%20Fund%20Shares.md#equity)
+- ✅ [ETF](../../8.%20Investment%20Funds/1.%20Fund%20Structures.md#exchange-traded-funds-etfs)
+- ✅ [Financial asset](../../3.%20Assets%20and%20Liabilities/1.%20Assets/1.%20Financial%20Assets.md)
+- ✅ [Fund](../../8.%20Investment%20Funds/0.%20Investment%20Funds.md)
+- ✅ [Futures](../../6.%20Financial%20Instruments/2.%20Derivatives/2.%20Futures.md)
+- ✅ [Hedge Fund](../../8.%20Investment%20Funds/1.%20Fund%20Structures.md#hedge-funds)
+- ✅ [Inflation](../../2.%20Money%20and%20Banking/0.%20Money%20and%20Banking.md#inflation)
+- ✅ [IPO](../../10.%20Corporate%20Finance/0.%20Corporate%20Finance.md#initial-public-offering-ipo)
+- ✅ [Liquid](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#liquidity)
+- ✅ [Options](../../6.%20Financial%20Instruments/2.%20Derivatives/1.%20Options.md)
+- ✅ [OTC](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#exchanges-and-otc-trading)
+- ✅ [private equity](../../6.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/Stocks.md#public-and-private-equity) https://www.reddit.com/r/BusinessHub/comments/1xygsb9/this_is_wild_guys_lol_ashton_k_just_became_a/
+- ✅ [Risk](../../5.%20Risk%20and%20Return/0.%20Risk%20and%20Return.md)
+- ✅ [Stock](../../6.%20Financial%20Instruments/1.%20Non-Derivative%20Instruments/5.%20Equity%20and%20Investment%20Fund%20Shares/Stocks.md)
+- ✅ [Treasury](../../9.%20Public%20Finance/2.%20Government%20Borrowing.md#us-treasury-securities)
+- ✅ [Wall street oen and close meaning](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#market-open-and-close). Never understood this fully.
+- ✅ [Market Mechanics](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md): how exchanges and order books work, market making, [derivatives](../../6.%20Financial%20Instruments/2.%20Derivatives/0.%20Derivatives.md), [options Greeks (introduction only)](../../6.%20Financial%20Instruments/2.%20Derivatives/1.%20Options.md#options-greeks-introduction-only), and [risk basics](../../5.%20Risk%20and%20Return/0.%20Risk%20and%20Return.md).
+- ✅ [Shorting](../../7.%20Financial%20Markets/1.%20Market%20Mechanics.md#short-sales)
 
 ### Foundational Additions
 

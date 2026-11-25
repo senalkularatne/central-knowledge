@@ -1,0 +1,35 @@
+# Bonds
+
+## What is a Bond?
+
+- A bond is a debt security: the buyer lends money to the issuer and becomes its creditor.
+- A bond issuer, such as a government or corporation, promises payments according to the bond's terms. These commonly include periodic interest and repayment of a stated amount. Not every bond has the same payment pattern.
+- When buying a bond from another investor, the buyer acquires the existing repayment claim; the purchase does not normally supply new money to the issuer.
+- Home and car loan agreements are also forms of debt, but are not ordinarily bonds. Bonds are issued as securities that can be traded between investors.
+
+## Payments and Risk
+
+A bond's coupon is its interest payment. The bond's face value, also called par value, is the principal the issuer repays when the bond matures. It need not equal the price an investor pays for the bond.
+
+The issuer can fail to make required payments. A bond's resale price can also fall, so a repayment promise does not eliminate [investment risk](../../../5.%20Risk%20and%20Return/1.%20Single%20Investments.md#investment-risk).
+
+## Why the Term "Bond"?
+
+- [unverified] The word "bond" is used because it literally means to bind or tie someone to a legal agreement. It comes from the old English word for a physical rope, chain, or fastening device that locks things together. Over centuries, the word evolved from describing a physical tie into a legal tie.
+
+---
+
+###### References
+
+- [FINRA: Bonds](https://www.finra.org/investors/investing/investment-products/bonds)
+- [Investor.gov: Bonds](https://www.investor.gov/introduction-investing/investing-basics/investment-products/bonds-or-fixed-income-products/bonds)
+
+###### Resources
+
+- [ ]
+
+###### Comments
+
+- Complete: No
+- Last Updated: 11/23/2026, Monday
+- Todo: Verify the retained etymology and add basic examples of bond payments.

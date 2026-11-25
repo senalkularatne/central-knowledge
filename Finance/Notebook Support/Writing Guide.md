@@ -5,6 +5,7 @@ Rules for every note in Finance, for humans and AI assistants alike. When a rule
 ## Writing Content
 
 - Be explicit. Avoid vague wording.
+- Every sentence must make sense to a reader who has read only the earlier notes. Never refer to "the beginning", "this branch", "the shared concepts" or similar without naming what is meant. State what something is before saying what it is not.
 - Assume the reader is a complete novice with no prior knowledge of the topic.
 - Use legal names: the term defined in statute, regulation, or on the official form, not the informal phrase.
   - Example: "Ordinary Income" is the legal term for the income itself, while "ordinary income tax" is the informal phrase people use for the tax applied to it.
@@ -33,7 +34,8 @@ Follow a strict conceptual taxonomy. Organize both folders and in-file headings 
 - Different kinds of thing get different folders. A tax, the income it applies to, the form that reports it, the account that shelters it, and the strategy that lowers it are five different kinds.
 - Time is not a category. No History, News, or Recent folders. The history of a topic goes inside that topic. Anything with an as-of date (prices, forecasts, theses, current events) goes in Research. Definitions and mechanics that do not go stale go in the concept folders.
 - One home per concept. Write the note once and link to it from everywhere else. Never keep two notes on the same concept.
-- A folder holds at least two children. A folder with one child is a file. A child that is planned but not yet written counts if the nearest `0.` overview lists it as missing.
+- A folder holds at least two children. A folder with one child is a file. A child that is planned but not yet written counts if the Todo of the nearest `0.` overview lists it.
+- The top level holds only `0. Finance.md` and section folders, never loose notes. A topic too small for its own folder goes inside the section it is part of.
 - Unsorted notes live in `Organize/` until they are placed. `0. Finance.md` holds the map of the top-level folders.
 
 ### Order (Prerequisites)
@@ -43,8 +45,8 @@ Numbers set the reading order. Reading in numeric order, depth first, no note ma
 - Renumber siblings to fix the order. Never move a note out of its correct parent to fix the order.
 - This applies at every level, including top-level folders: foundations come before the topics that apply them.
 - Number all siblings or none. Siblings with no prerequisite relationship stay unnumbered. The `0.` overview does not count as a sibling. Keep numbers gap-free and renumber when a planned sibling is written.
-- `0. <Folder Name>.md` is the overview of its folder and is read first. It states what the umbrella is, how its children relate, which children are written, and which are still missing.
-- The first use of a term defined in another note links to that note instead of re-explaining it. A note never relies on a later-numbered note to be understood. A link to a later-numbered note is allowed only as optional further reading, and an overview may link down to its children. If two notes need each other, move the shared concept into its own earlier note.
+- `0. <Folder Name>.md` is the overview of its folder and is read first. It states what the umbrella is and how its children relate. Children not yet written are listed under Todo in `###### Comments`.
+- The first use of a term defined in another note links to that note instead of re-explaining it. A note never relies on a later-numbered note to be understood. A link to a later-numbered note is allowed only under `###### Resources` or as a brief pointer inside a sentence, and an overview may link down to its children. If two notes need each other, move the shared concept into its own earlier note.
 
 ### Naming
 
@@ -72,10 +74,12 @@ Every note uses this structure. This guide is exempt.
 ###### Comments
 
 - Complete: No
-- Last Updated: MM/DD/YYYY, Weekday
+- Last Updated: 11/23/2026, Monday
 - Todo:
 ```
 
+- The body holds only material for studying. Plans, missing topics and remarks about where things are placed go under Todo in `###### Comments`.
+- Links kept for later reading go under `###### Resources` as `- [ ]` items, never in a body section such as Optional Further Reading or Related Topics.
 - Never leave a note as an empty file. An unwritten note still contains the title and the template so it can be found by searching for `Complete: No`.
 
 ## Rules for AI Assistants
