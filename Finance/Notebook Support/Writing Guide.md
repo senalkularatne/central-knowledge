@@ -5,6 +5,7 @@ Rules for every note in Finance, for humans and AI assistants alike. When a rule
 ## Writing Content
 
 - Assume the reader is a complete novice with no prior knowledge of the topic.
+- When a concept has a common informal name or phrase, explain it in the same note where the official or standard term is first taught. Keep the note organized under the official or standard term, label the other wording as informal, and explain what it refers to and how people use it. Include common investing slang readers may encounter in places such as WallStreetBets. Example: under a note about price declines, explain that people may informally call a recent price drop a “dip,” and that “buying the dip” means buying after a drop because they expect the price to recover.
 - Be explicit: name exactly what you mean. Example: write "Read 1. Basic Economic Concepts first, because the other Economics notes use its terms," not "To start from the beginning and then move forward:".
 - Every sentence must make sense to a reader who has read only the earlier notes. Never refer to "the beginning", "this branch", "the shared concepts" or similar without naming what is meant.
 - Write one idea per sentence. Do not shorten a sentence if the meaning becomes unclear, and do not join two definitions with a semicolon.
@@ -62,10 +63,23 @@ Numbers set the reading order. Reading in numeric order, finishing each folder a
 
 Every note uses this structure. This guide is exempt.
 
-```markdown
-# <Title>
+`# <Title>`
 
 - body
+
+### Images
+
+<img src="<image_path>" alt="<description>" width="600">
+
+Using width use appropriate size.
+Store all images in .assets directory at root. Use good image file name.
+Use kebab-case for image file names.
+
+Example:
+
+```md
+<img src="/.assets/system-architecture-overview.png" alt="Diagram showing data flow between client, API gateway, and database" width="400">
+```
 
 ---
 
@@ -78,7 +92,7 @@ Every note uses this structure. This guide is exempt.
 ###### Comments
 
 - Complete: No
-- Last Updated: MM/DD/YYYY, Weekday
+- Last Updated: 11/26/2026, Thursday
 - Todo:
 ```
 
